@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Zafar</h1>
-<h3 align="center">JavaScript & PHP Technologies Expert from Pakistan</h3>
+<h3 align="center">JavaScript & PHP Technologies Expert from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devusman-ai&label=Profile%20views&color=0e75b6&style=flat" alt="devusman-ai" /> </p>
 
